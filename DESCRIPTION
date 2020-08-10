@@ -1,0 +1,15 @@
+Package: twelvedays
+Title: Sing the 12 Days of Christmas
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Roberto",
+           family = "Delgado"
+           )
+Description: This is a practice package for my stats class.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat
