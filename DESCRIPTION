@@ -1,5 +1,5 @@
 Package: twelvedays
-Title: Sing the 12 Days of Christmas
+Title: simulation-practice
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Roberto",
